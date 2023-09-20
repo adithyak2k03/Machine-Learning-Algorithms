@@ -1,6 +1,6 @@
 # Machine-Learning-Algorithms
 
-- Supervised Learning
+- Supervised Learning<br>
     -Regression
     -Classification
 - Unsupervised Learning
