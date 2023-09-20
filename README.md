@@ -1,7 +1,11 @@
 # Machine-Learning-Algorithms
 
 - Supervised Learning
-  - Supervised Regression
-  - Supervised Classification
+  - Regression
+    - Linear Regression
+    - Support Vector Machine
+    - Decision Tree
+    - Random Forest
+  - Classification
 - Unsupervised Learning
-  - Unsupervised Clustering
+  - Clustering
